@@ -127,7 +127,7 @@ fecha_conexao(conexao, cursor)
 #     conexao = mysql.connector.connect(
 #             host= '108.167.132.244',
 #             user='nycofi04_nico',
-#             password='52476217637761873018',
+#             password='******',
 #             database='nycofi04_banco1_nicofifer.com',
 #     )
 #
@@ -168,7 +168,7 @@ fecha_conexao(conexao, cursor)
 # conexao = mysql.connector.connect(
 #     host= '108.167.132.244',
 #     user='nycofi04_nico',
-#     password='52476217637761873018',
+#     password='******',
 #     database='nycofi04_banco1_nicofifer.com',
 # )
 #
